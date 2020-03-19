@@ -8,12 +8,17 @@
         "vietnam-payment-gateways",
         "payment-gateways"
     ],
-    "homepage": "https://github.com/phpviet/laravel-omnipay",
     "license": "MIT",
     "authors": [
         {
             "name": "Vuong Xuong Minh",
             "email": "vuongxuongminh@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Hungmaix94/laravel-omnipay"
         }
     ],
     "require": {
