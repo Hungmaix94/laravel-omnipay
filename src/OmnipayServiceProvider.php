@@ -30,7 +30,7 @@ class OmnipayServiceProvider extends ServiceProvider
     protected function publishConfigs(): void
     {
         $this->publishes([
-            __DIR__.'/../config/laravel-omnipay.php' => $this->app->configPath('laravel-omnipay.php'),
+            __DIR__.'/../config/laravel-omnipay.php' => config_path('laravel-omnipay.php'),
         ], 'config');
     }
 }

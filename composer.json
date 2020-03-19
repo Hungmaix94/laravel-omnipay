@@ -1,6 +1,6 @@
 {
-    "name": "phpviet/laravel-omnipay",
-    "description": "Laravel Omnipay hổ trợ tích hợp các cổng thanh toán trong nước.",
+    "name": "hungmaix/laravel-omnipay",
+    "description": "Lumen Omnipay hổ trợ tích hợp các cổng thanh toán trong nước.",
     "keywords": [
         "phpviet",
         "laravel-omnipay",
